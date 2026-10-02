@@ -22,7 +22,7 @@ title: Barbie Movies Are Awesome
 email: sudnya@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Animated Barbie movies before 2016 were the best!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/SI-676"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: satre26
 
